@@ -1,4 +1,4 @@
-# Quiz on Terminal
+# CLI-based Quiz
 
 A fun and interactive command-line quiz game inspired by "Who Wants to Be a Millionaire?" but with a football twist! Test your football knowledge and aim to win the virtual $1,000,000 prize.
 
